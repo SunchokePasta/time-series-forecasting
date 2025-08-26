@@ -1,0 +1,4 @@
+Model,MAE,RMSE,MAPE%
+"SARIMA(1,1,1)(1,1,1,7)",41718.02,52051.98,4.24
+"XGBoost (lags, rolls, calendar)",34265.2,42616.15,3.45
+"XGBoost (lags, rolls, calendar), backtesting imp",31996.71,39633.69,3.23
